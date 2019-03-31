@@ -7,3 +7,4 @@ Can be used with fastled library, use the following settings:
 #define LED_TYPE    P9813
 #define COLOR_ORDER GRB
 ```
+![board image](dimmer.png)
